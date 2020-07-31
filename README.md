@@ -1,4 +1,4 @@
-# LOCATION RECOMMENDATION FOR RESTRAUNT USING FOURSQUARE API AND MACHINE LEARNING
+# LOCATION RECOMMENDATION FOR RESTAURANT USING FOURSQUARE API AND MACHINE LEARNING
 # 1.Introduction
 Choosing a location for your restaurant is one of just a few keys to profitability. Parking and accessibility can be as crucial to a restaurant's success as great food and service. There is a famous saying in real estate that also holds true for restaurants: "You make your money when you buy."
 
